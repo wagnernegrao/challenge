@@ -1,6 +1,7 @@
 package com.challenge.controller;
 
 import com.challenge.service.HandlerValidate;
+import com.challenge.service.HandlerValidateImpl;
 import com.challenge.utils.response.ResponseHandler;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -13,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestHeader;
 public class ValidateController {
     private final HandlerValidate handlerValidate;
 
-    public ValidateController(final HandlerValidate handlerValidate) {
-        this.handlerValidate = handlerValidate;
+    public ValidateController() {
+        this.handlerValidate = new HandlerValidateImpl();
     }
 
     @PostMapping

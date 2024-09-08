@@ -10,8 +10,10 @@ public class ValidSize extends ApprovalAuthority {
     @Override
     public Either<Boolean, String> handle(final String password) {
         if (password.length() < MINIMUM_SIZE) {
+            // Aqui colocaria uma métrica para contabilizar casos de erro.
             return Either.right("Não pode ser menor que 9 caracteres");
         }
+        // Aqui colocaria uma métrica para contabilizar casos de sucesso.
         return Either.left(true);
     }
 }
