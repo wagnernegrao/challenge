@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcfe17b3-532c-4a93-bb94-ac9c90730861" name="Changes" comment="configurations" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="feature/chain-of-responsability" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "wagnernegrao"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/wagnernegrao/challenge.git",
+    "accountId": "4cba8071-3299-4fe0-9323-d63f27ddb702"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ljwWTrneXjbUfWKZqQvvRJXFwI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChallengeApplication.executor": "Run",
+    "JUnit.All in challenge.executor": "Coverage",
+    "JUnit.ApprovalAuthorityTest.executor": "Coverage",
+    "JUnit.ChallengeApplicationTests.contextLoads.executor": "Run",
+    "JUnit.HandlerValidateTest.executor": "Coverage",
+    "JUnit.HandlerValidateTest.testValidPassword.executor": "Run",
+    "JUnit.ValidateControllerTest.executor": "Coverage",
+    "JUnit.ValidateControllerTest.testValidatePasswordInvalid.executor": "Run",
+    "JUnit.ValidateControllerTest.testValidatePasswordValid.executor": "Run",
+    "JUnit.com.challenge in challenge.executor": "Coverage",
+    "JUnit.java in challenge.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/wagnernegrao/Documents/Development/challenge/challenge-api/pom.xml",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ChallengeApplication">
+    <configuration name="ChallengeApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.challenge.ChallengeApplication" />
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in challenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidateControllerTest.testValidatePasswordInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.challenge.controller.ValidateControllerTest" />
+      <option name="METHOD_NAME" value="testValidatePasswordInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.challenge in challenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.challenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.challenge" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in challenge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="challenge" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChallengeApplication" />
+        <item itemvalue="JUnit.java in challenge" />
+        <item itemvalue="JUnit.ValidateControllerTest.testValidatePasswordInvalid" />
+        <item itemvalue="JUnit.com.challenge in challenge" />
+        <item itemvalue="JUnit.All in challenge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcfe17b3-532c-4a93-bb94-ac9c90730861" name="Changes" comment="" />
+      <created>1725706825246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725706825246</updated>
+    </task>
+    <task id="LOCAL-00001" summary="feature: Improving code quality and adding logging and possible points for metrics.">
+      <option name="closed" value="true" />
+      <created>1725829605498</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725829605498</updated>
+    </task>
+    <task id="LOCAL-00002" summary="configurations">
+      <option name="closed" value="true" />
+      <created>1725829672105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725829672105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: Improving code quality and adding logging and possible points for metrics." />
+    <MESSAGE value="configurations" />
+    <option name="LAST_COMMIT_MESSAGE" value="configurations" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/challenge/controller/ValidateController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/challenge/service/HandlerValidateImpl.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/challenge/service/HandlerValidateImplTest.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/challenge/utils/validPassword/ValidField.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/challenge/controller/ValidateControllerTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/challenge$ApprovalAuthorityTest.ic" NAME="ApprovalAuthorityTest Coverage Results" MODIFIED="1725731497161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.challenge.utils.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/challenge$ValidateControllerTest.ic" NAME="ValidateControllerTest Coverage Results" MODIFIED="1725732001553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.challenge.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/challenge$HandlerValidateTest.ic" NAME="HandlerValidateTest Coverage Results" MODIFIED="1725731237472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.challenge.service.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/challenge$com_challenge_in_challenge.ic" NAME="com.challenge in challenge Coverage Results" MODIFIED="1725732204264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.challenge.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/challenge_api$java_in_challenge.ic" NAME="java in challenge Coverage Results" MODIFIED="1725829185918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/challenge$All_in_challenge.ic" NAME="All in challenge Coverage Results" MODIFIED="1725732143205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>
